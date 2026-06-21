@@ -1,0 +1,12 @@
+{"ts": "2026-06-21T18:31:41+00:00", "project": "netra", "section": "business", "task": "summarization", "model": "qwen2.5:14b", "input_tokens": 1795, "output_tokens": 507, "cost_usd": 0.0}
+{"ts": "2026-06-21T18:33:29+00:00", "project": "netra", "section": "financials", "task": "summarization", "model": "qwen2.5:14b", "input_tokens": 1793, "output_tokens": 966, "cost_usd": 0.0}
+{"ts": "2026-06-21T18:35:25+00:00", "project": "netra", "section": "management", "task": "summarization", "model": "qwen2.5:14b", "input_tokens": 2139, "output_tokens": 951, "cost_usd": 0.0}
+{"ts": "2026-06-21T18:36:26+00:00", "project": "netra", "section": "risks", "task": "extraction", "model": "qwen2.5:14b", "input_tokens": 1611, "output_tokens": 297, "cost_usd": 0.0}
+{"ts": "2026-06-21T18:38:09+00:00", "project": "netra", "section": "news", "task": "summarization", "model": "qwen2.5:14b", "input_tokens": 1709, "output_tokens": 791, "cost_usd": 0.0}
+{"ts": "2026-06-21T18:38:38+00:00", "project": "netra", "section": "thesis", "task": "reasoning", "model": "claude-sonnet-4-6", "input_tokens": 1002, "output_tokens": 1159, "cost_usd": 0.020391}
+{"ts": "2026-06-21T18:39:25+00:00", "project": "netra", "section": "ecosystem", "task": "reasoning", "model": "claude-sonnet-4-6", "input_tokens": 317, "output_tokens": 2048, "cost_usd": 0.031671}
+{"ts": "2026-06-21T18:39:42+00:00", "project": "netra", "section": "deep_dives", "task": "socratic", "model": "claude-sonnet-4-6", "input_tokens": 89, "output_tokens": 600, "cost_usd": 0.009267}
+{"ts": "2026-06-21T18:40:08+00:00", "project": "netra", "section": "deep_dives", "task": "socratic", "model": "claude-sonnet-4-6", "input_tokens": 733, "output_tokens": 1076, "cost_usd": 0.018339}
+{"ts": "2026-06-21T18:40:24+00:00", "project": "netra", "section": "deep_dives", "task": "socratic", "model": "claude-sonnet-4-6", "input_tokens": 1946, "output_tokens": 600, "cost_usd": 0.014838}
+{"ts": "2026-06-21T18:41:02+00:00", "project": "netra", "section": "deep_dives", "task": "socratic", "model": "claude-sonnet-4-6", "input_tokens": 2599, "output_tokens": 1500, "cost_usd": 0.030297}
+{"ts": "2026-06-21T18:41:46+00:00", "project": "netra", "section": "deep_dives", "task": "socratic", "model": "claude-sonnet-4-6", "input_tokens": 4288, "output_tokens": 1711, "cost_usd": 0.038529}
